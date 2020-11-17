@@ -1,0 +1,9 @@
+﻿  ParserLMF.cpp
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(57): warning C4129: '/': sequenza di caratteri di escape sconosciuta
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(57): warning C4129: '-': sequenza di caratteri di escape sconosciuta
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(57): warning C4129: 'd': sequenza di caratteri di escape sconosciuta
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(126): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(247): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(412): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\carlo\documents\progetti_visualstudio\parserlmf\parserlmf\parserlmf.cpp(49): warning C4101: 'tempCharAst': variabile locale senza riferimenti
+  ParserLMF.vcxproj -> C:\Users\Carlo\Documents\Progetti_VisualStudio\ParserLMF\Debug\ParserLMF.exe

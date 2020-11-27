@@ -1,0 +1,20 @@
+<!-- 
+    TITOLO - AUTORE - DATA
+    DESCRIZIONE
+-->
+
+<!DOCTYPE html5>
+<html>
+    <head>
+        <title>TITOLO</title>
+        <meta charset="CODIFICA" />
+        STILE
+        SCRIPT
+        META_AU_TORE
+        META_DE_SCRIZIONE
+    </head>
+    <body>
+        <h1>TITOLOSEUNI</h1>
+        CORPOPAGINA
+    </body>
+</html>

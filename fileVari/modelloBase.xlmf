@@ -1,20 +1,20 @@
 <!-- 
-    TITOLO - AUTORE - DATA
-    DESCRIZIONE
+    T_I_T_O_L_O - A_U_T_O_R_E - D_A_T_A
+
+    D_E_S_C_R_I_Z_I_O_N_E
 -->
 
 <!DOCTYPE html5>
 <html>
     <head>
-        <title>TITOLO</title>
-        <meta charset="CODIFICA" />
-        STILE
-        SCRIPT
-        META_AU_TORE
-        META_DE_SCRIZIONE
+        <title>T_I_T_O_L_O</title>
+        <meta charset="C_O_D_I_F_I_C_A" />
+        <link rel="stylesheet" href="S_T_I_L_E">
+        <script src="S_C_R_I_P_T"></script>
+        <meta name="author" content="A_U_T_O_R_E">
+        <meta name="description" content="D_E_S_C_R_I_Z_I_O_N_E">
     </head>
     <body>
-        <h1>TITOLOSEUNI</h1>
-        CORPOPAGINA
+        C_O_R_P_O_P_A_G_I_N_A
     </body>
 </html>

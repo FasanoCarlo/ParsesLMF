@@ -1,0 +1,11 @@
+.grassettoLMF{
+	font-weight: bold;
+}
+
+.corsivoLMF{
+	font-style: italic;
+}
+
+.sottolineatoLMF{
+	text-decoration: underline;
+}

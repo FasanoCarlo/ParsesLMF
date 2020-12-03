@@ -4,13 +4,14 @@
     D_E_S_C_R_I_Z_I_O_N_E
 -->
 
-<!DOCTYPE html5>
+<!DOCTYPE T_I_P_O_D_O_C>
 <html>
     <head>
         <title>T_I_T_O_L_O</title>
         <meta charset="C_O_D_I_F_I_C_A" />
-        <link rel="stylesheet" href="S_T_I_L_E">
-        <script src="S_C_R_I_P_T"></script>
+		S_T_I_L_E
+        S_C_R_I_P_T
+		S_T_I_L_M_F
         <meta name="author" content="A_U_T_O_R_E">
     </head>
     <body>

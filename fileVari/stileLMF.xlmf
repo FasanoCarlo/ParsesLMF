@@ -1,3 +1,10 @@
+/* Stile generale */
+body{
+	font-family: Arial;
+}
+
+/* Formattazione STILE LMF */
+
 .grassettoLMF{
 	font-weight: bold;
 }
@@ -8,4 +15,47 @@
 
 .sottolineatoLMF{
 	text-decoration: underline;
+}
+
+
+/* Stili Liste */
+
+.classeCerchiLMF{
+	list-style-type: circle;
+}
+
+.classePuntiLMF{
+	list-style-type: disc;
+}
+
+.classeQuadratiLMF{
+	list-style-type: square;
+}
+
+.classeNessunoLMF{
+	list-style-type: none;
+}
+
+.classeDecimaliLMF{
+	list-style-type: decimal;
+}
+
+.classeZerodecimaliLMF{
+	list-style-type: decimal-leading-zero;
+}
+
+.classeLettereminuscoleLMF{
+	list-style-type: lower-alpha;
+}
+
+.classeLetteremaiuscoleLMF{
+	list-style-type: upper-alpha;
+}
+
+.classeRomaniLMF{
+	list-style-type: upper-latin;
+}	
+
+.classeGrecominuscoloLMF{
+	list-style-type: lower-greek;
 }
